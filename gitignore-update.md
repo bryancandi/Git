@@ -1,5 +1,5 @@
-**Updating your `.gitignore` and removing previously committed files**
-#
+## **Updating your `.gitignore` and removing previously committed files**
+
 1.  **Make desired changes to `.gitignore` file:**
     * Ensure your `.gitignore` file accurately reflects the files and directories you want Git to ignore. Double-check for typos and correct patterns.
 
